@@ -1,0 +1,16 @@
+{
+  "tutorial1": "Welcome to Drawfriend, a simple drawing tool.",
+  "tutorial2": "Draw, snap and edit a picture, or load an existing image from your gallery!",
+  "brush": "Pick a brush size / draw",
+  "color": "Pick a color",
+  "eraser": "Erase drawing",
+  "undo": "Undo last action",
+  "redo": "Cancel last undo",
+  "clear": "Clear the screen",
+  "menu": "Open features menu",
+  "snap": "Snap a picture to edit",
+  "save": "Save drawing to gallery",
+  "gallery": "Open gallery. You can choose any picture to draw on!",
+  "saved": "saved!",
+  "thanks": "Thank you!"
+}

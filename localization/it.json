@@ -1,0 +1,15 @@
+{
+  "tutorial1": "Benvenuto in Drawfriend, un semplice strumento di disegno.",
+  "tutorial2": "Disegna, modifica una foto, o caricane una dalla tua galleria!",
+  "brush": "Scegli le dimensioni del pennello / disegna",
+  "color": "Scegli il colore",
+  "eraser": "Cancella il disegno",
+  "undo": "Annulla l'ultima azione",
+  "redo": "Ripristina l'ultima azione",
+  "clear": "Svuota lo schermo",
+  "menu": "Apri il menu funzionalità",
+  "snap": "Scatta una foto da modificare",
+  "save": "Salva il disegno nella galleria",
+  "gallery": "Apri la galleria. Puoi scegliere qualsiasi foto da modificare!",
+  "saved": "salvato!"
+}
